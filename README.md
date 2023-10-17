@@ -20,7 +20,6 @@ JUnit é um dos frameworks mais populares para escrever testes unitários em Jav
   - Arquivo da classe: `src/main/java/com/Sorteio/Sorteio.java`
   - Arquivo de teste: `src/test/java/com/Sorteio/SorteioTest.java`
 
-Você pode organizar seus projetos com essa estrutura de diretórios, onde as classes principais estão no diretório `src/main/java` e as classes de teste estão no diretório `src/test/java`. Certifique-se de ajustar os caminhos de acordo com a estrutura do seu projeto.
 
 ### Exemplo 1: Testes da Classe Calculadora
 
