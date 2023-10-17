@@ -20,4 +20,7 @@ public class Sorteio {
         }
         return "Bilhete premiado!"; // Números coincidem
     }
+    public int[] getNumerosSorteados() {
+        return numerosSorteados;
+    }
 }
